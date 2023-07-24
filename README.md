@@ -1,7 +1,7 @@
 # Pattern Recognition-2023-HMRMSC  
 
 This repo contains the MATLAB code of our Pattern Recognition'2023 article: [High-order manifold regularized multi-view subspace clustering with robust affinity matrices and weighted TNN](https://www.sciencedirect.com/science/article/abs/pii/S0031320322005477).
-High-order manifold regularized multi-view subspace clustering with robust affinity matrices and weighted TNN
+* High-order manifold regularized multi-view subspace clustering with robust affinity matrices and weighted TNN
 
 ## Requirements
 
